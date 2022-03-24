@@ -5,49 +5,49 @@
             "shortname": "Young_Broke_and_Infamous",
             "publishDate": "2010",
             "imgURL": "/images/Logic_Young_Broke_and_Infamous.jpeg",
-            "songTitles": []
+            "songTitles": ["Stain in the Game", "Nothing But A Hero RMX", "Young Sinatra", "I Want It All", "I Just Wanna", "Can I Love", "Love Jones (skit)", "Love Jones", "Give It To Me", "Sunny in the Booth (skit)", "Growing Pains", "Young, Broke, and Infamous", "Scenario", "Ask 'Em", "BackPack", "Sellin' Drugs", "Worthy", "WordPlay", "Back and Forth"]
         },
         {
             "name": "Young Sinatra",
             "shortname": "Young_Sinatra",
             "publishDate": "2011",
             "imgURL": "/images/Logic_Young_Sinatra.jpeg",
-            "songTitles": []
+            "songTitles": ["One", "Shine On", "30,000", "All I Do", "Sell Out Records (skit)", "Beggin", "Mind of Logic", "Champagne Thoughts (Interlude)", "Are You Ready", "Highs & Lows", "Addiction", "Stewie Griffin", "Live on the Air", "Young Sinatra II", "Juice", "Prime", "Take It Slow", "Let Me Go", "Mixed Feelings", "Growing Pains II", "As I Am", "Just Another Day"]
         },
         {
             "name": "Young Sinatra: Undeniable",
             "shortname": "Young_Sinatra_Undeniable",
             "publishDate": "2012",
             "imgURL": "/images/Logic_Young_Sinatra_Undeniable.jpeg",
-            "songTitles": []
+            "songTitles": ["Inception", "Set the Tone", "Dead Presidents III", "Used to Hate It", "No Biggie", "Disgusting", "Relaxation", "Tic Tac Toe", "ThirstMail (skit)", "The Spotlight", "Life of a Don", "We Get High", "Numbers", "500 Days of Summer", "What You Want", "Do Ya Like", "Aye Girl", "Young Sinatra III", "All Sinatra Everything", "Dear God", "I Made It", "World Wide"]
         },
         {
             "name": "Young Sinatra: Welcome to Forever",
             "shortname": "Young_Sinatra_Welcome_To_Forever",
             "publishDate": "2013",
             "imgURL": "/images/Logic_Young_Sinatra_Welcome_To_Forever.jpeg",
-            "songTitles": []
+            "songTitles": ["Welcome to Forever", "925", "Roll Call", "5AM", "Break It Down", "Feel Good", "Saturday (skit)", "On the Low", "Walk On By", "The Come Up", "Nasty", "Life Is Good", "Randolph Returns (skit)", "Ballin'", "Young Jedi", "The High Life", "Common Logic / Midnight Marauder", "Just a Man", "Man of the Year", "The End"]
         },
         {
             "name": "Bobby Tarantino",
             "shortname": "Bobby_Tarantino",
             "publishDate": "2016",
             "imgURL": "/images/Logic_Bobby_Tarantino.jpeg",
-            "songTitles": []
+            "songTitles": ["Illuminatro", "Flexicution", "The Jam", "Slave II", "A Word from Our Sponsor", "Wrist", "Super Mario World", "Studio Ambience at Night: Malibu", "44 Bars", "Slave", "Deeper Than Money"]
         },
         {
             "name": "Bobby Tarantino II",
             "shortname": "Bobby_Tarantino_II",
             "publishDate": "2018",
             "imgURL": "/images/Logic_Bobby_Tarantino_II.jpeg",
-            "songTitles": []
+            "songTitles": ["Grandpa's Space Ship", "Overnight", "Contra", "BoomTrap Protocol", "Yuck", "Indica Badu", "Midnight", "Warm It Up", "Wizard of Oz", "State of Emergency", "Wassup", "Everyday", "44 More"]
         },
         {
             "name": "Bobby Tarantino III",
             "shortname": "Bobby_Tarantino_III",
             "publishDate": "2021",
             "imgURL": "/images/Logic_Bobby_Tarantino_III.png",
-            "songTitles": []
+            "songTitles": ["Introll", "Vaccine", "Get Up", "My Way", "Call Me", "Inside", "Flawless", "Stupid Skit", "Theme for the People", "God Might Judge", "See You Space Cowboy...", "Untitled"]
         }
     ]
 }
