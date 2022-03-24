@@ -1,0 +1,46 @@
+{
+    "albums": [
+        {
+            "name": "Under Pressure",
+            "shortname": "Under_Pressure",
+            "publishDate": "2014",
+            "imgURL": "/images/Under_Pressure.jpg",
+            "songTitles": ["Intro", "Soul Food", "I'm Gone", "Gang Related", "Buried Alive", "Bounce", "Growing Pains III", "Never Enough", "Metropolis", "Nikki", "Under Pressure", "Till the End", "Driving Ms. Daisy", "Now", "Alright"]
+        },
+        {
+            "name": "The Incredible True Story",
+            "shortname": "The_Incredible_True_Story",
+            "publishDate": "2015",
+            "imgURL": "/images/The_Incredible_True_Story.jpeg",
+            "songTitles": ["Contact", "Fade Away", "Upgrade", "White People (Scene)", "Like Woah", "Young Jesus", "Innermission", "I Am the Greatest", "The Cube (Scene)", "Lord Willin", "City of Stars", "Stainless", "Babel (Scene)", "Paradise", "Never Been", "Run It", "Lucidity (Scene)", "The Incredible True Story"]
+        },
+        {
+            "name": "Everybody",
+            "shortname": "Everybody",
+            "publishDate": "2017",
+            "imgURL": "/images/Everybody.jpeg",
+            "songTitles": ["Hallelujah", "Everybody", "Confess", "Killing Spree", "Take It Back", "America", "Ink Blot", "Mos Definitely", "Waiting Room", "1-800-273-8255", "Anziety", "Black Spiderman", "AfricAryaN"]
+        },
+        {
+            "name": "YSIV",
+            "shortname": "Young_Sinatra_IV",
+            "publishDate": "2018",
+            "imgURL": "/images/Young_Sinatra_IV.jpeg",
+            "songTitles": ["Thank You", "Everybody Dies", "The Return", "The Glorious Five", "One Day", "Wu Tang Forever", "100 Miles and Running", "Ordinary Day", "YSIV", "Street Dreams II", "The Adventures of Stoney Bob", "Legacy", "Iconic", "Last Call"]
+        },
+        {
+            "name": "Confessions of a Dangerous Mind",
+            "shortname": "Confessions_of_a_Dangerous_Mind",
+            "publishDate": "2019",
+            "imgURL": "/images/Confessions_of_a_Dangerous_Mind.jpeg",
+            "songTitles": ["Confessions of a Dangerous Mind", "Homicide", "Wannabe", "Clickbait", "Mama / Show Love", "Out of Sight", "Pardon My Ego", "Commando", "Icy", "Still Ballin", "Cocaine", "Limitless", "Keanu Reeves", "Don't Be Afraid to Be Diffrent", "Bobby", "Lost in Translation"]
+        },
+        {
+            "name": "No Pressure",
+            "shortname": "No_Pressure",
+            "publishDate": "2020",
+            "imgURL": "/images/No_Pressure.jpeg",
+            "songTitles": ["No Pressure Intro", "Hit My Line", "GP4", "Celebration", "Open Mic / Aquarius III", "Soul Food II", "Perfect", "Man I Is", "DadBod", "5 Hooks", "Dark Place", "A2Z", "Heard Em Say", "Amen", "Obediently Yours"]
+        }
+    ]
+}

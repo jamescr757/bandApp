@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logic - Studio Albums</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+  <script async src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script async src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/css/index.css">
+  <link rel="stylesheet" href="/css/album.css">
+</head>
+<body>
+  <div class="header">
+      <img src="/images/Logic_jumbotron_single_album.jpeg" alt="Logic">
+      <div class="opacity">
+          <h1 class="ml-3">Logic</h1>
+          <h1 class="mr-3">Young Sinatra</h1>
+      </div>
+  </div>
+  <div class="navigation">
+      <a href="/"><span class="active">Home</span></a>
+      <a href="/albums"><span>Studio Albums</span></a>
+      <a href="/mixtapes"><span>Mixtapes</span></a>
+      <a href="/chat"><span>Chat</span></a>
+      <a href="/feedback"><span>Feedback</span></a>
+  </div>
+  <div class="main-content py-5">
+      <div class="content-container">
+          <h1 class="text-center"><%= album.name %></h1>
+          <div class="album-details pt-4 pb-4">
+              <img src="<%= album.imgURL %>" alt="<%= album.name %>" class="rounded shadow mr-4">
+              <ol class="song-list ml-4">
+                <% album.songTitles.forEach(song => { %>
+                    <li><%= song %></li>
+                <% }) %>
+              </ol>
+          </div>
+          <h3 class="text-center">Released in <%= album.publishDate %></h3>
+      </div>
+  </div>
+  <div class="footer">
+      <span>DC Band Application © 2022</span>
+  </div>
+</body>
+</html>

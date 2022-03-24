@@ -1,0 +1,53 @@
+{
+    "mixtapes": [
+        {
+            "name": "Young, Broke & Infamous",
+            "shortname": "Young_Broke_and_Infamous",
+            "publishDate": "2010",
+            "imgURL": "/images/Logic_Young_Broke_and_Infamous.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Young Sinatra",
+            "shortname": "Young_Sinatra",
+            "publishDate": "2011",
+            "imgURL": "/images/Logic_Young_Sinatra.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Young Sinatra: Undeniable",
+            "shortname": "Young_Sinatra_Undeniable",
+            "publishDate": "2012",
+            "imgURL": "/images/Logic_Young_Sinatra_Undeniable.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Young Sinatra: Welcome to Forever",
+            "shortname": "Young_Sinatra_Welcome_To_Forever",
+            "publishDate": "2013",
+            "imgURL": "/images/Logic_Young_Sinatra_Welcome_To_Forever.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Bobby Tarantino",
+            "shortname": "Bobby_Tarantino",
+            "publishDate": "2016",
+            "imgURL": "/images/Logic_Bobby_Tarantino.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Bobby Tarantino II",
+            "shortname": "Bobby_Tarantino_II",
+            "publishDate": "2018",
+            "imgURL": "/images/Logic_Bobby_Tarantino_II.jpeg",
+            "songTitles": []
+        },
+        {
+            "name": "Bobby Tarantino III",
+            "shortname": "Bobby_Tarantino_III",
+            "publishDate": "2021",
+            "imgURL": "/images/Logic_Bobby_Tarantino_III.png",
+            "songTitles": []
+        }
+    ]
+}

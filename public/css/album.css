@@ -1,0 +1,19 @@
+.content-container {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.album-details {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.album-details img {
+    min-width: 500px;
+    height: auto;
+}
+
+.song-list {
+    font-size: 1.25rem;
+}
