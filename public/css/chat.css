@@ -1,0 +1,32 @@
+.main-content {
+    display: flex;
+    justify-content: center;
+    min-height: 50vw;
+}
+
+.form-container, .message-container {
+    width: 30vw;
+}
+
+label {
+    display: block;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+input, textarea {
+    width: 80%;
+}
+
+input {
+    height: 36px;
+}
+
+input:focus-visible, textarea:focus-visible {
+    outline: none;
+}
+
+#messages {
+    list-style: none;
+    font-size: 1.25rem;
+}

@@ -27,7 +27,6 @@ router.post("/api/feedback", (req, res) => {
 router.delete("/api/feedback", (req, res) => {
     const messageIndex = parseInt(req.body.index);
     feedback.splice(messageIndex, 1);
-    console.log(feedback);
     updateJSON(feedback);
     res.json(feedback);
 })

@@ -1,6 +1,7 @@
 const express = require("express");
+const socket = require("socket.io");
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 8080;
 
 app.use(express.static("public"));
 
@@ -16,7 +17,16 @@ app.use(require("./routes/album"));
 app.use(require("./routes/mixtapes"));
 app.use(require("./routes/mixtape"));
 app.use(require("./routes/feedback"));
+app.use(require("./routes/chat"));
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
+})
+
+const io = socket(server);
+
+io.on("connection", socket => {
+    socket.on("msgFromClient", clientMsg => {
+        io.emit("msgFromServer", clientMsg);
+    })
 })
